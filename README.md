@@ -35,11 +35,11 @@ The following image shows the web application:
 
 ## Live URL
 
-[Let's go to My Weather Dashboard](https://andreedantzler.github.io/Workday-Planner/)
+[Let's go to My Weather Dashboard](https://andreedantzler.github.io/WeatherDashboard/)
 
 ## Repo URL
 
-(https://)
+(https://github.com/AndreeDantzler/WeatherDashboard)
 
 ## Licenses: 
 
