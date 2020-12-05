@@ -1,0 +1,27 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+.hidden {
+  display: none;
+}
+
+.day {
+  background-color: steelblue;
+  margin: 16px;
+  color: white;
+  border-radius: 8px;
+}
+
+.city-search {
+  width: 180px;
+}
+
+.searched-list {
+  margin-top: 20px;
+  cursor: pointer;
+}
